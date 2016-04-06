@@ -1,0 +1,19 @@
+//
+//  HCNetworkDemo.pch
+//  HCNetworkDemo_ASIHttpRequest
+//
+//  Created by wz on 16/4/5.
+//  Copyright © 2016年 hotchook. All rights reserved.
+//
+
+#ifndef HCNetworkDemo_pch
+#define HCNetworkDemo_pch
+
+#import "JSONModel.h"
+#import "XMLDictionary.h"
+#import "HCRequest.h"
+#import "HCResponse.h"
+#import "HCNetworkHelper.h"
+#import "Constants.h"
+
+#endif /* HCNetworkDemo_pch */

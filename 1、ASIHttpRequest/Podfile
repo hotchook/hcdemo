@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+pod 'ASIHTTPRequest', '~> 1.8.2'
+pod 'JSONModel', '~> 1.2.0'
+pod 'XMLDictionary', '~> 1.4'
