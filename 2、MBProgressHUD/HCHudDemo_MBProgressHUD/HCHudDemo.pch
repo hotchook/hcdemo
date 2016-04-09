@@ -1,0 +1,14 @@
+//
+//  HCHudDemo.pch
+//  HCHudDemo-MBProgressHUD
+//
+//  Created by wz on 16/4/9.
+//  Copyright © 2016年 hotchook. All rights reserved.
+//
+
+#ifndef HCHudDemo_pch
+#define HCHudDemo_pch
+
+#import "UIViewController+HCHud.h"
+
+#endif /* HCHudDemo_pch */
